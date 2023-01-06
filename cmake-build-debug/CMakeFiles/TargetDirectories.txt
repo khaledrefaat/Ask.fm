@@ -1,0 +1,3 @@
+C:/Users/Khaled/CLionProjects/askfm/cmake-build-debug/CMakeFiles/askfm.dir
+C:/Users/Khaled/CLionProjects/askfm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Khaled/CLionProjects/askfm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
